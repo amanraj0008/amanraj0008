@@ -21,7 +21,7 @@ A passionate developer from India who loves building scalable applications and e
 - 💻 I'm a **Full Stack Developer**
 - 🌱 I'm continuously learning new technologies
 - 🛠️ I enjoy building scalable applications
-- 📫 Reach me at: **Add your email here**
+- 📫 Reach me at: **amanrajbeg2004@gmail.com**
 - ⚡ Always learning, building, and growing!
 
 ### 🤝 Connect with me
